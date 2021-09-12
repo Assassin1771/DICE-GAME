@@ -1,4 +1,4 @@
-# Dice-Game
+# DICE GAME
 
-A game to decide winner at every turn.
-Just roll the dice and decide of winner of any argument.
+A game to decide winner of anything.
+Just roll the dice and decide of winner of any argument!!
